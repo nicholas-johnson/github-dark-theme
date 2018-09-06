@@ -1,0 +1,51 @@
+body {
+  background-color: #24292e;
+  font-weight:normal !important;
+  font-family: monospace;
+  letter-spacing:0.05em;
+  font-size:85%;
+  color:#ddd;
+}
+
+h1 {
+  font-weight:normal;
+}
+
+.markdown-body {
+  font-family:monospace !important;
+}
+.text-gray-dark, .text-emphasized, .btn-link {
+  color:red !important;
+}
+
+.zh-board-issue-view-overlay { 
+  background: rgba(0, 0, 0, 0.95) 
+}
+
+.zhc-badge {
+  font-size:1em;
+}
+
+.js-file-content, 
+.pinned-repo-item, 
+.zhc-tag, 
+.numbers-summary,
+.file {
+  background:#fff;
+}
+
+.issues-listing, 
+.repo-list {
+  background: #fff;
+  box-shadow: white 0px 0px 0px 4px;
+}
+
+.markdown-body {
+color: #24292e;
+}
+
+.reponav-item.selected {
+background: #24292e;
+color: white;
+border-color:transparent;
+}
